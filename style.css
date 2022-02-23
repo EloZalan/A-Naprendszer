@@ -9,11 +9,48 @@
     border-radius: 10px;
     
 }
+.border-rounded15{
+    border-radius: 15px;
+}
 .rounded15{ 
     border-radius: 10px;
     border: rgb(255, 196, 0) 1px solid
     
 }
+.rounded16{ 
+    border-radius: 10px;
+    border: #dc3545 1px solid  
+}
+.sor2{
+    background-color: rgba(128, 128, 128, 0.247);
+}
 .none{
     text-decoration: none;
 }
+.venusz1{
+    border-color: rgb(255, 209, 140);
+}
+.venusz2{
+    background-color: rgb(181, 109, 0);
+}
+.mars2{
+    background-color: #c96500;
+}
+.jupiter2{
+    background-color: #ffdab5;
+}
+.szaturnusz1{
+    border-color: rgb(192, 165, 138);
+}
+.szaturnusz2{
+    background-color: rgb(204, 195, 186);
+}
+.uranusz2{
+    background-color: #ccfff8;
+}
+.neptunusz1{
+    border-color: #ccfff8;
+}
+/* .neptunusz2{
+    background-color: ;
+} */
