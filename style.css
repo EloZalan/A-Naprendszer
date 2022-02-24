@@ -21,6 +21,11 @@
     border-radius: 10px;
     border: #dc3545 1px solid  
 }
+.merkur-border{ 
+    border-radius: 10px;
+    border: #6c757d7c 1px solid
+    
+}
 .sor2{
     background-color: rgba(128, 128, 128, 0.247);
 }
