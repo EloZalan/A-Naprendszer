@@ -59,3 +59,7 @@
 /* .neptunusz2{
     background-color: ;
 } */
+.hover2, tr:hover{ 
+    color: black !important; 
+    background-color: rgba(255, 255, 255, 0.664);
+}
