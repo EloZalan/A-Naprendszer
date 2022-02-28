@@ -32,6 +32,13 @@
 .none{
     text-decoration: none;
 }
+.brown{
+    color: rgb(181, 109, 0);
+}
+.brownborder{
+    border: 1px solid rgb(181, 109, 0);
+    
+}
 .venusz1{
     border-color: rgb(255, 209, 140);
 }
