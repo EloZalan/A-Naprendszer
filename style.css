@@ -26,6 +26,12 @@
     border: #6c757d7c 1px solid
     
 }
+.text-vertiacal{
+    vertical-align: middle;
+}
+.marscolor{
+    color: #c96500;
+}
 .sor2{
     background-color: rgba(128, 128, 128, 0.247);
 }
@@ -44,6 +50,10 @@
 }
 .venusz2{
     background-color: rgb(181, 109, 0);
+}
+.mars1{
+    border: 1px solid #c96500;
+    
 }
 .mars2{
     background-color: #c96500;
